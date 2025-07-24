@@ -2,8 +2,7 @@
 
 <br/>
 
-- 2nd year, CSE student at IIIT Bangalore  
-- Currently learning Springboot and React  
+- 2nd year, CSE student at IIIT Bangalore
 - How to reach me – **vansh.desai@iiitb.ac.in**
 
 <br/>
