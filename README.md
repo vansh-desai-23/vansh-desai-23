@@ -27,7 +27,7 @@
 **Frameworks & Libraries**  
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/springio-icon.svg" alt="Spring" height="50" /></a>
+  <a href="https://spring.io/projects" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/springio-icon.svg" alt="Spring" height="50" /></a>
   <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
