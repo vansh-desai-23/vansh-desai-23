@@ -31,7 +31,7 @@
   <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-  <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/hibernate-icon.svg" alt="MySQL" height="50" /></a>
+  <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/hibernate-icon.svg" alt="Hibernate" height="50" /></a>
 </div>
 
 <br/>
@@ -40,6 +40,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/linux-original.svg" alt="Linux" height="50" /></a>
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/vansh-desai-23/vansh-desai-23/refs/heads/add-assets/assets/postman-icon.svg" alt="Postman" height="50" /></a>
   
 </div>
 
