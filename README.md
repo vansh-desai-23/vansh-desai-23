@@ -66,7 +66,5 @@
 
 ## Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh-desai-23&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=vansh-desai-23&&style=flat-square" alt="Profile Visits" />
 </div>
